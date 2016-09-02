@@ -152,9 +152,6 @@ GEM
       net-ssh (>= 2.8.0)
     thor (0.19.1)
     thread_safe (0.3.5)
-    turbolinks (5.0.1)
-      turbolinks-source (~> 5)
-    turbolinks-source (5.0.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unicorn (5.1.0)
@@ -180,7 +177,6 @@ DEPENDENCIES
   scrypt
   spring
   sqlite3
-  turbolinks
   unicorn
 
 BUNDLED WITH
