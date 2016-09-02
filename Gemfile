@@ -15,8 +15,6 @@ gem 'daemons'
 
 gem 'jbuilder', '~> 2.0'
 
-gem 'turbolinks'
-
 gem 'kaminari'
 
 gem 'pg'
