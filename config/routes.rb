@@ -6,7 +6,7 @@ Rails.application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # root 'users#test'
-  get '/', :to => redirect('/index.html')
+  root :controller => 'static', :action => '/'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
