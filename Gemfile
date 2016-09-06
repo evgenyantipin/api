@@ -5,6 +5,8 @@ gem 'rails', '4.2.7'
 
 gem 'rails-api'
 
+gem 'rack-cors', :require => 'rack/cors'
+
 gem 'spring', :group => :development
 
 gem 'responders'
